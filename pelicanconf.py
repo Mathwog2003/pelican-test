@@ -5,7 +5,7 @@ RELATIVE_URLS = True
 
 PATH = "content"
 
-TIMEZONE = 'Europe/Rome'
+TIMEZONE = "Asia/Kolkata"
 
 DEFAULT_LANG = 'en'
 

@@ -1,6 +1,6 @@
 Title: My First Blog
 Date: 2026-03-14
-Category: DevOps
+Category: test
 Tags: linux, devops
 Author: Gowtham
 
