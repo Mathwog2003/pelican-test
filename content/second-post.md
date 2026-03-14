@@ -1,4 +1,4 @@
-Title: My First Blog
+Title: My second Blog
 Date: 2026-03-14
 Category: test
 Tags: linux, devops
