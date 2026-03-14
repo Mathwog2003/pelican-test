@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Gowtham Blog</title><link href="https://mathwog2003.github.io/pelican-test/" rel="alternate"/><link href="https://mathwog2003.github.io/pelican-test/feeds/all.atom.xml" rel="self"/><id>https://mathwog2003.github.io/pelican-test/</id><updated>2026-03-14T00:00:00+01:00</updated><entry><title>My First Blog</title><link href="https://mathwog2003.github.io/pelican-test/my-first-blog.html" rel="alternate"/><published>2026-03-14T00:00:00+01:00</published><updated>2026-03-14T00:00:00+01:00</updated><author><name>Gowtham</name></author><id>tag:mathwog2003.github.io,2026-03-14:/pelican-test/my-first-blog.html</id><content type="html">&lt;p&gt;This is my &lt;strong&gt;first blog post&lt;/strong&gt; created using Pelican.&lt;/p&gt;
-&lt;p&gt;I will write about:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Linux&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;DevOps&lt;/li&gt;
-&lt;li&gt;Monitoring&lt;/li&gt;
-&lt;/ul&gt;</content><category term="DevOps"/><category term="linux"/><category term="devops"/></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Gowtham Blog</title><link href="https://mathwog2003.github.io/pelican-test/" rel="alternate"/><link href="https://mathwog2003.github.io/pelican-test/feeds/all.atom.xml" rel="self"/><id>https://mathwog2003.github.io/pelican-test/</id><updated>2026-03-14T12:35:26.033249+00:00</updated></feed>
